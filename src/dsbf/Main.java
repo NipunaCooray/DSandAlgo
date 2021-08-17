@@ -6,7 +6,7 @@
 package dsbf;
 
 import dsbf.gui.HomeScreen;
-import dsbf.checkcommonchild.ArrayCommonChild;
+import dsbf.solvingcodingques.ArrayCommonChild;
 
 /**
  *
